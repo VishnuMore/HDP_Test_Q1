@@ -57,9 +57,9 @@ which consist the All Senior (Staff and Engineer) employees list.
  
  6."Termial_SeniorEnginerAVG" this is text fle I have added, and in this text file I have added the Terminal output got for  All Senior Engineer employees Average Salary.Here You can find the all process how the query runa dn how the map reduce worked.
  
-7."Terminaloutputforsenioremps" in this text file I have added the terminal out put which I got after runing the all senior employees query, in this file you can check how the query run and the process happneded on mapreduce with all details.
+7. "Terminaloutputforsenioremps" in this text file I have added the terminal out put which I got after runing the all senior employees query, in this file you can check how the query run and the process happneded on mapreduce with all details.
  
- 8."terminaloutputforSenior_staff" In this text file I have added the termial output of Senior staff average salary and how I have exported this query result in CSV file and stored in local path. I.e. "000000.0".
+ 8. "terminaloutputforSenior_staff" In this text file I have added the termial output of Senior staff average salary and how I have exported this query result in CSV file and stored in local path. I.e. "000000.0".
  
  
  
