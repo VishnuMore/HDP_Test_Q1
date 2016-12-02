@@ -43,6 +43,21 @@ one left join on titles table and another one left join on the salaries table  b
  
  In this way we get the average salary of all Senioer ( Senioer staff and Senior Engineer) employees along with the emp.no , Emp name, Designation and Average salary.
  
+ **Added File Deatils as:
+ 
+  1. Directory "1question_csv_all_senior_liststaffandEng" in this directory  I have genrated CSV file "000000_0"
+which consist the All Senior (Staff and Engineer) employees list.
+
+2. "Q1_senior_Engineer_CSVavg" in this directory  I have generated CSV file "000000_0" which display the Average salary of all "Senior Engineer" employees.
+
+3. "Q1_senior_Stuff_avg" In this directory I have generaed the CSV file "000000_0"  which consist the Average Salary of all "Senior Staff" employees.
+
+4. "seniorEnggList" under this directory I have exported and generated CSV file "000000_0" file for  the All Senior Engineer employees list using below query 
+ "INSERT OVERWRITE LOCAL DIRECTORY '/home/vishnu/Documents/1stquestion_csv' select e.first_name,t.title from employees e left join titles t on e.emp_no = t.emp_no where t.title like '%Senior Engineer%';"
+ 
+ 5."seniorStaffList" in this directory I have exported the all senior  Staff employee list in CSV "000000_0".
+ 
+ 6."Termial_SeniorEnginerAVG" this is text fle I have added, and in this text file I have added the Terminal output got for  All Senior Engineer employees Average Salary.
  
 
 
