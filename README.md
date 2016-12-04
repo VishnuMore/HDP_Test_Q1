@@ -2,7 +2,7 @@
 Data, process and output of   Hadoop test Question 1
 
 # Q1: 
-Calculate average the salary of each 'Senior' employee. Please upload the final CSV along with the code and jar files(if any) to your github and provide the link below. The CSV should be formatted as empid, Name, Designation, Avg_salary
+Calculate the average salary of each 'Senior' employee. Please upload the final CSV along with the code and jar files(if any) to your github and provide the link below. The CSV should be formatted as empid, Name, Designation, Avg_salary
 
 
 Here In this question we have to get the all "Senior" employees record from employees table along with emp.no and salary and designation.
